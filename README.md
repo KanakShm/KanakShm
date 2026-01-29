@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kanak 👋
 
 I am a **Mechatronic Engineering & Computer Science** graduate based in Sydney. I specialise in **High-Performance C++**, **Autonomous Systems**, and **Physics Simulations**. My work focuses on bridging the gap between complex algorithmic theory and real-time hardware deployment.
 
