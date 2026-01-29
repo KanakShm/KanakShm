@@ -4,7 +4,7 @@ I am a **Mechatronic Engineering & Computer Science** graduate based in Sydney. 
 
 ---
 
-## 🏎️ Featured Project: Autonomous Formula Student
+## 🏎️ Featured Project: [Autonomous Formula Student](https://github.com/KanakShm/Non-Linear-Model-Predictive-Control/tree/main)
 **Lead Control Systems Engineer** *Led a team of engineers to design and implement the autonomous stack for a race car competing across Australasia.*
 
 ### Key Technical Contributions:
