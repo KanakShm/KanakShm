@@ -1,13 +1,58 @@
-<h1 align="center">Hi 👋, I'm Kanak</h1>
-<h3 align="center">A passionate software dev</h3>
+# Hi, I'm [Your Name] 👋
 
-- 🔭 I’m currently working on [Fluid Simulation Engine](https://github.com/KanakShm/Fluid-Sim-Engine)
+I am a **Mechatronic Engineering & Computer Science** graduate based in Sydney. I specialise in **High-Performance C++**, **Autonomous Systems**, and **Physics Simulations**. My work focuses on bridging the gap between complex algorithmic theory and real-time hardware deployment.
 
-- 🌱 I’m currently learning **C++, OpenGL and GPU programming**
+---
 
-- 📫 How to reach me **kanak4768@gmail.com**
+## 🏎️ Featured Project: Autonomous Formula Student
+**Lead Control Systems Engineer** *Led a team of engineers to design and implement the autonomous stack for a race car competing across Australasia.*
 
-<h3 align="left">Connect with me:</h3>
+### Key Technical Contributions:
+* **Model Predictive Control (MPC):** Developed a multithreaded **C++ ROS 2** node for real-time trajectory tracking, achieving a **50% reduction in lap times**.
+* **Software Architecture:** Architected a modular C++ codebase (**>10,000 LOC**) utilising **C++17/20** standards, prioritising memory safety and extensibility across distributed ROS 2 processes.
+* **Embedded Deployment:** Optimized real-time performance on an **NVIDIA Jetson Orin**, focusing on parallel computation and hardware acceleration.
+* **Hardware Integration:** Integrated closed-loop stepper motor PLCs with **custom STM32-based PCBs** to enable high-precision autonomous steering actuation.
+* **Simulation & Validation:** Maintained high-fidelity **Gazebo and RViz** environments to validate vehicle dynamics and improve debugging reliability.
+
+
+
+---
+
+## 🌊 Fluid Simulation Engine
+**High-Performance Graphics & Physics Project** *A 2D fluid simulation engine developed to apply real-time physics and GPGPU concepts.*
+
+* **Core Stack:** C++, OpenGL, and GLSL.
+* **Features:** Implementation of stable fluid solvers to simulate incompressible flow.
+* **Deployment:** Cross-compiled and deployed via GitHub Pages to showcase real-time web-based rendering.
+
+
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | C++ (17/20), Python, GLSL, Bash |
+| **Robotics** | ROS 2 (Humble), Gazebo, RViz |
+| **Embedded** | NVIDIA Jetson Orin, STM32, PLC, CAN bus |
+| **Graphics/Sim** | OpenGL, Physics Simulations, CMake |
+| **Soft Skills** | Technical Leadership (Team of 150+), Project Management |
+
+---
+
+## 📈 Engineering Focus
+* **Performance:** Writing cache-friendly, low-latency C++ for real-time applications.
+* **Safety:** Applying rigorous validation in simulation before moving to physical hardware.
+* **Scalability:** Designing modular systems that allow multiple engineers to contribute simultaneously without regressions.
+
+---
+
+## 📫 Connect with me
+* **LinkedIn:** [Your Profile Link]
+* **Portfolio:** [Link to your GitHub Pages Simulation]
+* **Location:** Sydney, Australia
+* 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kanak-sharma-068b3120a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanak-sharma-068b3120a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kanak4768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanak4768" height="30" width="40" /></a>
